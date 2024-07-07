@@ -22,4 +22,7 @@ sudo cp target/release/ip_info /usr/local/bin/
 
 ### Usage
 
-Run terminal -> ip_info
+Run terminal 
+```
+ip_info
+```
