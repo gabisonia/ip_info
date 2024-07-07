@@ -19,3 +19,7 @@ To build and run this project, you need to have Rust and Cargo installed on your
 cargo build --release
 sudo cp target/release/ip_info /usr/local/bin/
 ```
+
+### Usage
+
+Run terminal -> ip_info
